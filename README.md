@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...  You can reach me on discord 
-Whirlwind#5320
+Whirlwind#2874
 
 <!---
 Chemist26/Chemist26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
