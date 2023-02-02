@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chemist26 my name is Antoan Stoykov
 - 👀 I’m interested in programming with Java , C# and C++ 
-- 🌱 I’m currently Java Junior ...
+- 🌱 I’m currently Junior Java Engineer ...
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...  You can reach me on discord 
 Whirlwind#2874
